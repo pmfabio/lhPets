@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\xampp\\htdocs\\estudo\\senai-atividades\\Senai - LhPets\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Senai - LhPets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Senai - LhPets.props",
+      "PackagePath": "build\\Senai - LhPets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Senai - LhPets.props",
+      "PackagePath": "buildMultiTargeting\\Senai - LhPets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Senai - LhPets.props",
+      "PackagePath": "buildTransitive\\Senai - LhPets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

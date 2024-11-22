@@ -1,0 +1,35 @@
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.csproj.AssemblyReference.cache
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.AssemblyInfoInputs.cache
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.AssemblyInfo.cs
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Nuget.config
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\appsettings.Development.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\appsettings.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.staticwebassets.runtime.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.exe
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.deps.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.runtimeconfig.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\Senai - LhPets.pdb
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets.build.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets.development.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets\msbuild.Senai - LhPets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets\msbuild.build.Senai - LhPets.props
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Senai - LhPets.props
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Senai - LhPets.props
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\staticwebassets.pack.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\scopedcss\bundle\Senai - LhPets.styles.css
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - .6341F9E8.Up2Date
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\refint\Senai - LhPets.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.pdb
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\Senai - LhPets.genruntimeconfig.cache
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\obj\Debug\net8.0\ref\Senai - LhPets.dll

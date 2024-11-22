@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gzQnvNmikGxwMrArzyqwof0PEmJpqSZiYhV4pJ32Yck=",
+  "Source": "Senai - LhPets",
+  "BasePath": "_content/Senai - LhPets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Senai - LhPets\\wwwroot",
+      "Source": "Senai - LhPets",
+      "ContentRoot": "C:\\xampp\\htdocs\\estudo\\senai-atividades\\Senai - LhPets\\wwwroot\\",
+      "BasePath": "_content/Senai - LhPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\xampp\\htdocs\\estudo\\senai-atividades\\Senai - LhPets\\wwwroot\\index.html",
+      "SourceId": "Senai - LhPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\xampp\\htdocs\\estudo\\senai-atividades\\Senai - LhPets\\wwwroot\\",
+      "BasePath": "_content/Senai - LhPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

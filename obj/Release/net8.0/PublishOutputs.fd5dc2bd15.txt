@@ -1,0 +1,14 @@
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Senai - LhPets.exe
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Nuget.config
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\appsettings.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Senai - LhPets.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Senai - LhPets.deps.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Senai - LhPets.runtimeconfig.json
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\Senai - LhPets.pdb
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\xampp\htdocs\estudo\senai-atividades\Senai - LhPets\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
